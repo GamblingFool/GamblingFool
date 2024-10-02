@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @GamblingFool, but my real name is Caleb Grant
 - 🌱 I’m currently learning DevOps, Git, Azure, you name it
-- 📫 How to reach me via the OUH Digital Service Desk
+- 📫 You can reach me via the OUH Digital Service Desk
 
 Links to my orgs.
 
