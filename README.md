@@ -9,7 +9,7 @@ Links to my orgs.
 - https://www.ouh.nhs.uk
 - https://thamesvalleyandsurreyhealthandcaredata.nhs.uk/
 
-  
+I'll keep this updated with current projects
 <!---
 - 👋 Hi, I’m @GamblingFool, but my real name is Caleb Grant
 - 👀 I’m interested in IT and technology solutions in the Healtcare sector
