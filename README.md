@@ -11,7 +11,7 @@ Links to my orgs.
 
 I'll keep this updated with current projects
 
-📢 Feel free to use the Discussions to talk to me and others on anything that comes to mind!
+📢 Feel free to use the [Discussions](https://github.com/GamblingFool/GamblingFool/discussions) to talk to me and others on anything that comes to mind!
 <!---
 - 👋 Hi, I’m @GamblingFool, but my real name is Caleb Grant
 - 👀 I’m interested in IT and technology solutions in the Healtcare sector
